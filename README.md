@@ -1,4 +1,4 @@
-# Ray-casting-in-AutoLISP
+# Ray casting in AutoLISP
 
 This AutoLISP routine uses the conditions:
 
