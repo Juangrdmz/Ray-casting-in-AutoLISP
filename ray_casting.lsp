@@ -1,6 +1,6 @@
 ;|      ---Point in polygon (ray casting) routine using lineal interpolation---
       Last edited: 15/06/2025
-      Work by: juangrdmz @ https://github.com/Juangrdmz/Geometric-centroid-in-AutoLISP
+      Work by: juangrdmz @ https://github.com/Juangrdmz/Ray-casting-in-AutoLISP
       source: Inside code @ https://www.youtube.com/watch?v=RSXM9bgqxJM |;
 
 ;|    this function expects a point coordinates in test_point and 
